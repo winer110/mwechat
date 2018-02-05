@@ -12,9 +12,14 @@ export default {
 		// appsecret:'6b6675e5c70381c76caf1ec43c5be76d',
 		// token:'genee'
 		
-		// 18404904826@163.com
-		appID:'wx2c5cf038c2e8b7ec',
-		appSecret:'4cead7539e5d5fab3ed9922fd91ac5d4',
+		// 18404904826@163.com test
+		// appID:'wx2c5cf038c2e8b7ec',
+		// appSecret:'4cead7539e5d5fab3ed9922fd91ac5d4',
+		// token:'datian'
+
+		// 18404904826@163.com 正式		
+		appID:'wx02a308e55e02aacc',
+		appSecret:'4792bd29dd09c4e347aea8e819685c28',
 		token:'datian'
 	}
 	
